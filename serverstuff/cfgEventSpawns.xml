@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<eventposdef>
+	<event name="VehicleHatchback02" />
+	<event name="StaticHeliCrash">
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
+		<pos x="5784.60" z="7726.0" a="2" />
+		<pos x="8411.60" z="7667.0" a="2" />
+		<pos x="2679.60" z="6126.0" a="2" />
+		<pos x="3139.60" z="7353.0" a="2" />
+		<pos x="3569.10" z="5836.0" a="2" />
+		<pos x="3500.40" z="6584.0" a="2" />
+		<pos x="1286.60" z="6769.0" a="2" />
+	</event>
+	<event name="Loot" />
+	<event name="StaticPoliceCar" />
+	<event name="VehicleCivilianSedan">
+		<pos x="5989.289" z="7953.832" a="88.544548" />
+		<pos x="7015.289" z="7250.832" a="88.544548" />
+		<pos x="8154.289" z="3545.832" a="88.544548" />
+		<pos x="3321.289" z="3300.832" a="88.544548" />
+		<pos x="1455.289" z="3626.832" a="88.544548" />
+		<pos x="411.289" z="5568.832" a="88.544548" />
+		<pos x="4357.289" z="4997.832" a="88.544548" />
+		<pos x="3879.289" z="5173.832" a="88.544548" />
+		<pos x="3249.289" z="3318.832" a="88.544548" />
+		<pos x="4119.289" z="6247.832" a="88.544548" />
+		<pos x="1928.289" z="6888.832" a="88.544548" />
+	</event>
+
+
+
+
+
+	<event name="VehicleV3S" />
+   	<event name="VehicleV3SChassis" />
+	<event name="ItemPlanks" />
+
+
+    <event name="VehicleV3SCargo" />
+    <event name="VehicleTransitBus" />
+    <event name="InfectedVillage" />
+    <event name="InfectedSolitude" />
+    <event name="InfectedArmy" />
+    <event name="InfectedCity" />
+    <event name="InfectedMedic" />
+    <event name="InfectedPolice" />
+    <event name="InfectedFirefighter" />
+    <event name="InfectedPrisoner" />
+    <event name="AnimalDeer" />
+    <event name="AnimalCow" />
+    <event name="AnimalSheep" />
+    <event name="AnimalRoeDeer" />
+    <event name="AnimalWolf" />
+    <event name="AmbientHen" />
+    <event name="AnimalWildBoar" />
+    <event name="AnimalBear" />
+</eventposdef>
