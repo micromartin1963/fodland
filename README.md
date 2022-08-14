@@ -7,6 +7,9 @@ In the Mapframe properties make sure the layers file is correct (P:\fodland\sour
 Tick Export satelite and surfarce and convert exported textures then click generate.
 Then save and the file-export-WRP
 
+
+As the Navmesh file is too large for Github you will have to run the navmesh generator and put the nm file in the nm folder .
+
 Once you have moved the serverstuff out of this folder you can use the addon builder (I don't click on binerize)
 
 Then sign the addon with DS Utils
