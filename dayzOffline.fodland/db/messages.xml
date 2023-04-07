@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+
+    <!-- This is example message for automatic server termination -->
+    <message>
+        <!-- no delay -->
+        <delay>0</delay>
+        <repeat>0</repeat>
+        <onconnect>1</onconnect>
+        <text>Hello, this server  is brought to you by Brew</text>
+    </message>
+
+
+</messages>

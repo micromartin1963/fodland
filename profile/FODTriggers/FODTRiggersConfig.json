@@ -1,0 +1,148 @@
+{
+
+    "FODLocs": [
+        {
+	"LocationName" : "Police Station1",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"2242.2 15.9 7568.4",
+	"TargetVectorStr": "1455.3 15.5 8503",
+	"TargetRot" : "",
+        "FODRadius" : "6.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 120,
+	"ShowMarker" : 0
+        },
+        {
+	"LocationName" : "Police Station2",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"2211.33 10.55 7557.09",
+	"TargetVectorStr": "1439.72 16.63 8475.76",
+	"TargetRot" : "",
+        "FODRadius" : "4.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 120,
+	"ShowMarker" : 0
+        },
+        {
+	"LocationName" : "Police Station3",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"2221.14 9.59 7550.90",
+	"TargetVectorStr": "1379.6 15.46 8451.22",
+	"TargetRot" : "",
+        "FODRadius" : "4.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 120,
+	"ShowMarker" : 0
+        },
+        {
+	"LocationName" : "Police Station4",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"2231.93 8.91 7548.43",
+	"TargetVectorStr": "1326.63 15.53 8484.12",
+	"TargetRot" : "",
+        "FODRadius" : "4.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 120,
+	"ShowMarker" : 0
+        },
+        {
+	"LocationName" : "Police Station5",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"2248.07 8.36 7558.86",
+	"TargetVectorStr": "1314.08 15.53 8563",
+	"TargetRot" : "",
+        "FODRadius" : "4.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 120,
+	"ShowMarker" : 0
+        },
+        {
+	"LocationName" : "Police Station6",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"2262.72 8.91 7574.33",
+	"TargetVectorStr": "908.82 15.53 9152.75",
+	"TargetRot" : "",
+        "FODRadius" : "4.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 120,
+	"ShowMarker" : 0
+        },
+        {
+	"LocationName" : "Police Station7",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"2256.78 9.22 7580.04",
+	"TargetVectorStr": "903.33 15.53 9113.36",
+	"TargetRot" : "",
+        "FODRadius" : "4.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 120,
+	"ShowMarker" : 0
+        },
+        {
+	"LocationName" : "Police Station8",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"2249.15 8.90 7573.03",
+	"TargetVectorStr": "798.72 15.51 9060.71",
+	"TargetRot" : "",
+        "FODRadius" : "4.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 120,
+	"ShowMarker" : 0
+        },
+        {
+	"LocationName" : "Police Station9",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"2244.63 9.53 7581.52",
+	"TargetVectorStr": "762.94 15.5 9074.96",
+	"TargetRot" : "",
+        "FODRadius" : "4.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 120,
+	"ShowMarker" : 0
+        },
+        {
+	"LocationName" : "Exit_pvp2",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"1617.99 15.823 8372.41",
+	"TargetVectorStr": "2157.17 5.77 7646.02",
+	"TargetRot" : "",
+        "FODRadius" : "4.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 60,
+	"ShowMarker" : 0
+        },
+        {
+	"LocationName" : "Exit_pvp1",
+	"TType": 2,
+        "FODText": "",
+	"OrigVectorStr":	"765.51 15.38 9231.02",
+	"TargetVectorStr": "2166.93 5.26 7653.95",
+	"TargetRot" : "",
+        "FODRadius" : "4.2",
+        "FODClassnameStr" : "",
+	"FODSoundIndex" : 300001,
+	"StandDownTime" : 60,
+	"ShowMarker" : 0
+        }
+    ]
+}

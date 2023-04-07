@@ -1,0 +1,56 @@
+{
+    "m_DefaultMaxCurrency": 1000000,
+    "m_StartCurrency": 0,
+    "m_PlaceExcessiveCurrencyOnGround": 1,
+    "m_CreateLogs": 1,
+    "m_MessageDisplayTime": 5.0,
+    "m_TransactionDelayTime": 1.0,
+    "m_BankingCurrencyArray": [
+ 
+       {
+            "m_ClassName": "Money_Ruble5000",
+            "m_Value": 5000.0
+        },
+       {
+            "m_ClassName": "Money_Ruble2000",
+            "m_Value": 2000.0
+        },
+       {
+            "m_ClassName": "Money_Ruble1000",
+            "m_Value": 1000.0
+        },
+       {
+            "m_ClassName": "Money_Ruble500",
+            "m_Value": 500.0
+        },
+       {
+            "m_ClassName": "Money_Ruble200",
+            "m_Value": 200.0
+        },
+       {
+            "m_ClassName": "Money_Ruble100",
+            "m_Value": 100.0
+        },
+        {
+            "m_ClassName": "Money_Ruble50",
+            "m_Value": 50.0
+        },
+        {
+            "m_ClassName": "Money_Ruble10",
+            "m_Value": 10.0
+        },
+        {
+            "m_ClassName": "Money_Ruble5",
+            "m_Value": 5.0
+        },
+        {
+            "m_ClassName": "Money_Ruble2",
+            "m_Value": 2.0
+        },
+        {
+            "m_ClassName": "Money_Ruble1",
+            "m_Value": 1.0
+        }
+    ]
+}
+

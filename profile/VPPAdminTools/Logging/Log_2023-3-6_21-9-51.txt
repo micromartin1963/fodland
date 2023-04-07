@@ -1,0 +1,242 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-3-6_21-9-51
+====================================================================================
+21:9:51 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+21:9:51 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+21:9:51 | [PermissionManager] Perm (FreeCamera) has been registered!
+21:9:51 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuItemManager) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuServerManager) has been registered!
+21:9:51 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+21:9:51 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+21:9:51 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+21:9:51 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+21:9:51 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+21:9:51 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+21:9:51 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+21:9:51 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+21:9:51 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+21:9:51 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+21:9:51 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+21:9:51 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+21:9:51 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+21:9:51 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+21:9:51 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+21:9:51 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+21:9:51 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+21:9:51 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuBansManager) has been registered!
+21:9:51 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+21:9:51 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+21:9:51 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+21:9:51 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+21:9:51 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+21:9:51 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+21:9:51 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+21:9:51 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+21:9:51 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+21:9:51 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+21:9:51 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+21:9:51 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+21:9:51 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+21:9:51 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+21:9:51 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+21:9:51 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+21:9:51 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+21:9:51 | [PermissionManager] Adding Super Admin (76561197962686368)
+21:9:51 | [PermissionManager] Adding Super Admin (76561197968549981)
+21:9:51 | [PermissionManager] Adding Super Admin (76561198894531417)
+21:9:51 | [PermissionManager] Adding Super Admin (76561197963933504)
+21:9:51 | [PermissionManager] Loaded UserGroups.json
+21:9:51 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+21:9:51 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+21:9:51 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+21:9:51 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+21:9:51 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+21:9:51 | Building Sets Loaded: 0
+21:9:51 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+21:9:51 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+21:10:53 | Player "[FOG]Fod" (steamId=76561197962686368) connected to server!
+21:12:14 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3473.873291, 6.689210, 8338.122070>)
+21:12:15 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3480.034180, 7.421519, 8342.700195>)
+21:12:15 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3486.445801, 8.144627, 8347.063477>)
+21:12:15 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3493.697510, 8.908816, 8350.989258>)
+21:12:15 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3500.471924, 9.732617, 8354.634766>)
+21:12:16 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3507.484619, 10.527156, 8358.406250>)
+21:12:16 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3514.737061, 11.292067, 8362.305664>)
+21:12:16 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3521.656738, 12.102956, 8366.278320>)
+21:12:16 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3527.208740, 13.040089, 8369.620117>)
+21:12:16 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3531.752686, 14.045084, 8372.611328>)
+21:12:16 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3535.421387, 15.077394, 8375.148438>)
+21:12:17 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3539.376709, 15.931444, 8378.003906>)
+21:12:17 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3544.105469, 16.440554, 8381.441406>)
+21:12:17 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3549.301025, 16.796492, 8385.297852>)
+21:12:17 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3554.190430, 17.110275, 8389.149414>)
+21:12:17 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3559.264404, 17.373146, 8393.150391>)
+21:12:18 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3564.039307, 17.634964, 8396.861328>)
+21:12:18 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3568.696289, 17.931416, 8400.478516>)
+21:13:36 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:13:44 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5307.847656, 10.693737, 8243.285156>)
+21:13:44 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:14:4 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:14:14 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5680.650391, 8.472706, 8090.149414>)
+21:14:15 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:14:40 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5812.990723, 6.540955, 7935.978027>)
+21:14:40 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5821.727051, 7.923327, 7929.524414>)
+21:14:40 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5830.042969, 9.330987, 7924.206543>)
+21:14:41 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5837.804688, 10.485215, 7919.849609>)
+21:14:41 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5845.971191, 11.535615, 7915.599609>)
+21:14:41 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5853.579102, 12.352237, 7912.420410>)
+21:14:41 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5861.071289, 13.070381, 7909.438965>)
+21:14:41 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5868.976563, 13.715417, 7906.293945>)
+21:14:42 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5876.938965, 14.228712, 7903.103027>)
+21:14:42 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5885.033691, 14.631317, 7899.764160>)
+21:14:42 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5893.283203, 14.942470, 7896.270996>)
+21:15:23 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:15:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<6746.793457, 11.929338, 7457.860840>)
+21:15:32 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:16:24 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:16:38 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<8531.569336, 19.989998, 7162.772461>)
+21:16:38 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:17:5 | "76561197962686368" (steamid=76561197962686368) teleported to (pos=<1435.699951, 71.814476, 5265.640137>)
+21:17:5 | "[FOG]Fod": (steamid=76561197962686368) teleported to (pos=1435.7,0,5265.64)
+21:18:3 | "[FOG]Fod" (steamid=76561197962686368) healed player (steamid=76561197962686368)
+21:18:4 | "[FOG]Fod" (steamid=76561197962686368) gave godmode to (steamid=76561197962686368)
+21:18:5 | "[FOG]Fod" (steamid=76561197962686368) gave unlimited ammo to (steamid=76561197962686368)
+21:18:24 | "76561197962686368" (steamid=76561197962686368) teleported to (pos=<3429.280029, 42.622162, 4519.100098>)
+21:18:24 | "[FOG]Fod": (steamid=76561197962686368) teleported to (pos=3429.28,0,4519.1)
+21:18:56 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:19:3 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4294.954590, 7.650272, 5166.874512>)
+21:19:3 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:19:49 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:20:11 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<1090.407593, 10.329992, 4552.227051>)
+21:20:11 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:21:58 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<1224.045044, 10.730000, 4590.827637>)
+21:21:58 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<1208.175781, 11.385614, 4590.703125>)
+21:21:58 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<1183.203857, 11.647430, 4590.727539>)
+21:22:6 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:22:19 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<700.536377, 8.701084, 5404.575195>)
+21:22:22 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:24:11 | "76561197962686368" (steamid=76561197962686368) teleported to (pos=<8271.500000, 8.000023, 3920.459961>)
+21:24:11 | "[FOG]Fod": (steamid=76561197962686368) teleported to (pos=8271.5,0,3920.46)
+21:24:26 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:24:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<8298.642578, 6.900641, 3977.976074>)
+21:24:32 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:27:10 | [WeatherManager] Send Data Count is 0
+21:27:20 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:27:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<7989.138672, 9.900009, 3718.889893>)
+21:27:34 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:29:46 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:29:53 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<7286.889648, 22.932503, 3085.735107>)
+21:30:8 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<5782.872559, 10.054787, 2052.701904>)
+21:30:17 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4620.224609, 15.672036, 2107.415039>)
+21:30:28 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4035.762939, 79.302216, 2506.707520>)
+21:30:39 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3782.312500, 9.513916, 1513.812866>)
+21:30:53 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3094.021973, 63.740005, 3063.848877>)
+21:30:54 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:34:12 | "76561197962686368" (steamid=76561197962686368) teleported to (pos=<3827.260010, 11.510000, 1465.959961>)
+21:34:12 | "[FOG]Fod": (steamid=76561197962686368) teleported to (pos=3827.26,0,1465.96)
+21:36:16 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:36:26 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3955.273193, 9.463451, 1866.121704>)
+21:36:26 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:37:27 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4144.726074, 9.783873, 1894.385498>)
+21:37:27 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4148.854004, 9.709754, 1895.645874>)
+21:37:28 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4152.093262, 9.674498, 1898.681641>)
+21:37:28 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4155.447754, 9.630507, 1901.907715>)
+21:37:28 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4158.812012, 9.583895, 1905.151978>)
+21:37:28 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4161.845703, 9.552162, 1909.286499>)
+21:37:29 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4164.823242, 9.505638, 1913.553711>)
+21:37:29 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4167.921387, 9.448048, 1917.953003>)
+21:37:29 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4172.766113, 9.352986, 1922.767090>)
+21:37:29 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4178.294922, 9.249747, 1927.267944>)
+21:37:30 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4183.889160, 9.125813, 1931.818359>)
+21:37:30 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4189.531250, 8.986290, 1936.409912>)
+21:37:30 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4195.399414, 8.774170, 1941.187012>)
+21:37:30 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4199.701660, 8.715554, 1946.304321>)
+21:37:31 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4203.769531, 8.673116, 1951.868652>)
+21:37:31 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4207.632324, 8.717524, 1957.153198>)
+21:37:31 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4211.515625, 8.841151, 1962.796021>)
+21:37:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4215.291504, 9.007559, 1968.282715>)
+21:37:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4218.742676, 9.178030, 1974.042114>)
+21:37:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4222.068848, 9.137102, 1980.760498>)
+21:37:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4225.899902, 8.643588, 1989.429443>)
+21:37:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4229.047363, 8.365939, 1997.405396>)
+21:37:33 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4232.210938, 7.980070, 2005.713745>)
+21:37:33 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4235.476563, 7.543375, 2014.283813>)
+21:37:33 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4238.433105, 7.307920, 2022.034912>)
+21:37:33 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4241.188965, 7.189492, 2029.252197>)
+21:37:33 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4243.940918, 7.102741, 2036.408325>)
+21:37:34 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4246.696777, 7.013755, 2043.573608>)
+21:37:34 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4249.438477, 6.933558, 2050.703857>)
+21:37:34 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4252.230469, 6.820941, 2057.968994>)
+21:37:34 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4255.129883, 6.652491, 2065.519775>)
+21:38:16 | "[FOG]Fod" (steamid=76561197962686368) Spawned Item: (M16A2)
+21:38:16 | "[FOG]Fod" (steamid=76561197962686368) Spawned Item: (M16A2)
+21:38:30 | "[FOG]Fod" (steamid=76561197962686368) Spawned Item: (Mag_CMAG_30Rnd)
+21:38:50 | "[FOG]Fod" (steamid=76561197962686368) gave unlimited ammo to (steamid=76561197962686368)
+21:38:52 | "[FOG]Fod" (steamid=76561197962686368) gave unlimited ammo to (steamid=76561197962686368)
+21:43:22 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:43:25 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4746.791016, 8.508337, 1901.345703>)
+21:43:25 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:43:31 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4776.747559, 8.754434, 1901.546631>)
+21:43:31 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4785.549316, 9.076622, 1903.777222>)
+21:43:31 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4796.435059, 9.073957, 1906.538940>)
+21:43:31 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4805.421387, 9.346375, 1908.815430>)
+21:43:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4815.742676, 9.413090, 1911.432495>)
+21:43:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4826.387695, 9.429819, 1914.131958>)
+21:43:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4838.037109, 9.291660, 1917.088135>)
+21:43:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4848.265625, 9.372261, 1919.681763>)
+21:43:32 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<4860.176270, 9.193670, 1922.704956>)
+21:43:39 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:43:55 | "[FOG]Fod" (steamid=76561197962686368) teleported to crosshair (pos=<3430.840820, 42.564945, 4515.622559>)
+21:43:56 | "[FOG]Fod" (steamid=76561197962686368) toggled freecam
+21:44:35 | Player "[FOG]Fod" (steamId=76561197962686368) initiated disconnect process...
+21:44:50 | Player "[FOG]Fod" (steamId=76561197962686368) disconnected from server.

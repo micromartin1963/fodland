@@ -1,3 +1,0 @@
-R, G, B, Climate, Land type
-170, 190, 80, "Temperate", "Dry grass",
-170, 180, 70, "Temperate", "Steep dry grass",

@@ -1,0 +1,1 @@
+copy the one from P:\DZ\worlds\chernarusplus\navmesh to start with the use the navmesh generator and replace this one
