@@ -5021,7 +5021,7 @@
 						<point pos="-2.879982 -4.494003 10.594264" range="0.409375" height="1.023438" />
 				</container>
 		</group>
-		<group name="Land_Factory_Small" lootmax=4">
+		<group name="Land_Factory_Small" lootmax="4">
 				<usage name="Industrial" />
 				<container name="lootGround" lootmax="6">
 						<category name="tools" />
